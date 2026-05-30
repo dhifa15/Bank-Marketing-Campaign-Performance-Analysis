@@ -1,7 +1,7 @@
 [View Dashboard]([https://bit.ly/4wa7Bzg](https://datastudio.google.com/reporting/35bb5d62-49be-4553-a6b0-1dd2ee8d8abd))
 
 # Bank-Marketing-Campaign-Performance-Analysis
-![Main Dashboard](image.png)
+![Main Dashboard](dashboard..png)
 
 ## 📌 Project Overview
 This project analyzes the performance of a bank marketing campaign aimed at promoting term deposit subscriptions to customers.
